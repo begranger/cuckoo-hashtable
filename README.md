@@ -14,4 +14,4 @@ I designed this implementation for use database-like use, which is why I include
 
   3.  HashEntry - this class is public, and it is intended to be used. But you cannot create your own instances of it--you can        only get info from an instance.
 
-Thoughts and criticisms welcome, its a work in progress
+Thoughts and criticisms welcome -- its a work in progress -- free to any who want it
