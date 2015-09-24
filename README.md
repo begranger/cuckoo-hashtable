@@ -6,7 +6,7 @@ http://www.it-c.dk/people/pagh/papers/cuckoo-undergrad.pdf
 
 This hash algorithm guarantees worst-case constant time, since any one key can only be in one of two spots
 
-I designed this implementation for use database-like use, which is why I included the following features --
+I designed this implementation for use database-like use, which is why I included the following features--
 
 The toString() override returns a string that is the ENTIRE hash table, formatted nicely, sort of mimicking DROP in SQL
 
